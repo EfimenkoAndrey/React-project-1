@@ -3,9 +3,9 @@ nav {
   align-items: center;
   justify-content: space-between;
 
-  padding: 0 27px;
+  padding: 0 2.7rem;
 
-  height: 91px;
+  height: 9.1rem;
 
   color: red;
 
@@ -13,18 +13,18 @@ nav {
 }
 
 .nav--icon {
-  height: 30px;
-  margin-right: 7px;
+  height: 3rem;
+  margin-right: .7rem;
 }
 
 .nav--logo_text {
-  font-size: 22.25px;
+  font-size: 2.2rem;
   color: #61DAFB;
 }
 
 .nav-title {
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.6rem;
   margin-left: auto;
   color: #DEEBF8;
 }

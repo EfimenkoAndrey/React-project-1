@@ -1,0 +1,30 @@
+.main {
+  margin: auto;
+  padding: 5.7rem 2.7rem;
+
+  color: #ffffff;
+  background-color: #282D35;
+  background-image: url('../../images/jpg/reactjs-icon_2.png');
+  background-repeat: no-repeat;
+  background-position: right 75%;
+}
+
+.main-title {
+  font-size: 3.9rem;
+  letter-spacing: -0.05em;
+  color: #ffffff;
+}
+
+.main-facts  {
+  max-width: 40rem;
+  font-size: 1.6rem;
+}
+
+.main-facts > li {
+  padding-block: .8rem;
+}
+
+.main-facts > li::marker {
+  color: #61DAFB;
+  font-size: 2rem;
+}
